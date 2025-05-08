@@ -1,1 +1,14 @@
-<h1>Gustavo Reis</h1> <p>Opa, tenho 17 anos e o meu inicio na programação foi quando eu tinha 10 anos de idade foi quando me apaixonei pelos codigos, tenho muita experiencia com todos essas linguagens abaixo.</p> <p>Developer Full-Stack ⭐</p> ![oq que eu sabo](https://skillicons.dev/icons?i=js,html,css,git,typescript,discord,python,nodejs,mysql,mongodb,lua,java,vscode,react,express,sqlite) <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ReisDev-Ware&count_private=true&hide_border=true&border_radius=5&show_icons=true&theme=algolia&include_all_commits=false&bg_color=50,477bff,e047ff&text_color=ffffff&title_color=ffffff" /> </p>
+# Gustavo Reis
+
+Oi, eu sou o Gustavo, tenho 17 anos e minha jornada na programação começou aos 10 anos. Desde então, me apaixonei cada vez mais pelo mundo do código e busco constantemente aprimorar minhas habilidades.
+
+Sou **Developer Full-Stack** ⭐, com experiência em várias tecnologias e linguagens de programação, que utilizo para construir projetos de diferentes níveis e áreas.
+
+## Tecnologias e Ferramentas
+
+
+![Linguagens e Ferramentas](https://skillicons.dev/icons?i=js,html,css,git,typescript,discord,python,nodejs,mysql,mongodb,lua,java,vscode,react,express,sqlite)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ReisDev-Ware&count_private=true&hide_border=true&border_radius=5&show_icons=true&theme=algolia&include_all_commits=false&bg_color=50,477bff,e047ff&text_color=ffffff&title_color=ffffff" />
+</p>
