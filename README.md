@@ -1,6 +1,6 @@
 # Gustavo Reis
 
-Oi, eu sou o Gustavo, tenho 17 anos e minha jornada na programação começou aos 10 anos. Desde então, me apaixonei cada vez mais pelo mundo do código e busco constantemente aprimorar minhas habilidades.
+Opa, eu sou o Gustavo, tenho 17 anos e minha jornada na programação começou aos 10 anos. Desde então, me apaixonei cada vez mais pelo mundo do código e busco constantemente aprimorar minhas habilidades.
 
 Sou **Developer Full-Stack** ⭐, com experiência em várias tecnologias e linguagens de programação, que utilizo para construir projetos de diferentes níveis e áreas.
 
