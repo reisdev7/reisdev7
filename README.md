@@ -6,7 +6,7 @@ Sou **Developer Full-Stack** ⭐, com experiência em várias tecnologias e ling
 
 ## Minhas Especialidades
 
-![Linguagens e Ferramentas](https://skillicons.dev/icons?i=js,html,css,git,typescript,discord,python,nodejs,mysql,mongodb,lua,java,vscode,react,express,sqlite)
+![Linguagens e Ferramentas](https://skillicons.dev/icons?i=js,html,css,git,typescript,discord,python,nodejs,mysql,mongodb,lua,java,vscode,react,express,sqlite,tailwind)
 
 ## Tecnologias e Ferramentas
 
